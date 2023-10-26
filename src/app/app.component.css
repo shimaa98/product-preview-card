@@ -1,7 +1,21 @@
 .product-container {
   margin: 0 auto;
-  height: 300px;
+}
+
+.center-item {
+  align-items: center;
+  align-content: center;
+  justify-content: center;
+  background-color: hsl(0, 0%, 100%);
+}
+.product-img-contanier{
+    padding-left: 0;
 }
 .product-img {
   width: 100%;
+}
+
+.product-detailes {
+  
+  height: 100%;
 }

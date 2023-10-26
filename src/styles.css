@@ -4,4 +4,8 @@ body {
   display: grid;
   place-items: center;
   height: 100vh;
+  font-family: "Hanken Grotesk", sans-serif;
+  font-family: "Montserrat", sans-serif;
+  font-family: "Fraunces", serif;
+  font-family: "Montserrat", sans-serif;
 }
