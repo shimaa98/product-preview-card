@@ -21,13 +21,14 @@
             ],
             "tsConfig": "tsconfig.app.json",
             "assets": [
-              "src/favicon.ico",
+              "src/assets/favicon1.png",
               "src/assets"
             ],
             "styles": [
+              "src/assets/Css/bootstrap.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": ["src/assets/script/bootstrap.bundle.js"]
           },
           "configurations": {
             "production": {
